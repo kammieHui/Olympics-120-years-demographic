@@ -79,10 +79,10 @@ For Researchers:<br>
 ---
 
 ## 📂 Technologies Used
-	•	Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
-	•	SQL (sq lite)
-	•	Jupyter Notebooks
-	•	Data Visualization (Treemaps, Line Charts, Stacked Bar Charts)
+- Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
+- SQL (sq lite)
+- Jupyter Notebooks
+- Data Visualization (Treemaps, Line Charts, Stacked Bar Charts)
 ---
 
 
