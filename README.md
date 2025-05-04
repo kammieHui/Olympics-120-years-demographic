@@ -1,6 +1,6 @@
 ##🏅 Olympic Data Analysis: Gender, Performance, and National Trends
 
-🔍 Project Overview
+🔍 Project Overview 
 
 This project analyzes over 120 years of Olympic Games data to explore trends in athlete demographics, gender participation, and national dominance in medal-winning across disciplines. The analysis uses Python, SQL, and data visualization techniques to test several hypotheses around performance drivers and systemic trends.
 
