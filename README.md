@@ -46,62 +46,43 @@ Leading Sports (1996–2016 growth):<br>
 - Low Correlation: Age, height, and weight showed minimal predictive power for medal-winning.
 - Sport-Specific Nuance: Slight advantages for taller/heavier athletes in power sports, but not universally significant.
 
-National Trends
-	•	USA Dominance:
-	•	Swimming: Consistent leader; nearly 70 medals in 2016.
-	•	Athletics: Fluctuations, but top rank held since 1988.
-	•	Rising Nations:
-	•	Great Britain in Rowing: Strong medal growth post-2000.
-	•	Highly Competitive Disciplines:
-	•	Ice Hockey: Ongoing Canada-USA rivalry since 2010.
-	•	Fencing: No consistent leader—Italy saw a decline post-2012.
+**National Trends**<br>
+USA Dominance:<br>
+1. Swimming: Consistent leader; nearly 70 medals in 2016.
+2. Athletics: Fluctuations, but top rank held since 1988.<br>
+
+Rising Nations:<br>
+1. Great Britain in Rowing: Strong medal growth post-2000. <br>
+
+Highly Competitive Disciplines:<br>
+1. Ice Hockey: Ongoing Canada-USA rivalry since 2010.
+2. Fencing: No consistent leader—Italy saw a decline post-2012.<br>
 ---
 
-## 📊 Dashboard Visuals
 
-| Visual | Description |
-|--------|-------------|
-| 🔁 Donut Chart | Churned vs Non-Churned Customers |
-| 📊 Bar Chart | Revenue Loss by Churn|
-| 📊 Bar Chart | Contract Type of Churn|
-| 📊 Bar Chart | Tenure Length of Churn|
-| 📊 Bar Chart | Payment and Billing Preference for Churned Customers |
-| 🔁 Donut Chart | Churned Customers Demographic|
-| 🔁 Donut Chart | Services Churned|
-| 🧠 Tooltip Page| Key Insights |
+## 💡 Insights & Implications
+- Gender Equity: Strong evidence of progress in women’s participation. Policy and investment are paying off.
+- Beyond Physical Metrics: Success is driven more by training, technique, and strategy than by age or physique alone.
+- Strategic Investment Yields Results: Countries that back structured programs (e.g., GBR in rowing) see measurable performance gains.
 
 ---
 
-## 🔍 Key Insights
+## 🎯 Recommendations
+For Olympic Committees: <br>
+- Sustain funding in historically strong disciplines (e.g., USA in swimming).
+- For emerging nations: Invest in female-focused programs and underdog sports with high ROI potential.
 
-**🧠 No Dependents = Higher Churn:**
-- Only 17% of churned customers have dependents.
-
-**📉 Tenure < 6 Months = Risk Zone:**
-- 42% of churn happens within first 6 months.
-
-**🧬Non Senior Citizens = Higher Churn:**
-- Around 75% of churn are non-Senior Citizens. 
-
-**💸 Electronic Check = Risky:**
-- Nearly 46% of churned customers paid via electronic check.
+For Researchers:<br>
+- Explore skill vs. physical-based predictors for medal outcomes.
+- Analyze competitive density—does increased global participation correlate with more equitable medal distribution?
 
 ---
 
-## 🛠 Tools Used
-
-- Power BI
-- DAX
+## 📂 Technologies Used
+	•	Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
+	•	SQL (sq lite)
+	•	Jupyter Notebooks
+	•	Data Visualization (Treemaps, Line Charts, Stacked Bar Charts)
 ---
 
-## 📁 Files
-
-- [Download Power BI File](Power%20BI/SaaS%20Customer%20Churn%20Analysis.pbix)
-- [Download pdf](pdf/SaaS_Customer_Churn_Analysis.pdf)
-- [Download Raw Data File](data/WA_Fn-UseC_-Telco-Customer-Churn.csv)
-- [Download Dashboard image](images/dashboard_overview.png)
-- `README.md`
-
-![Dashboard Preview](images/dashboard_overview.png)
----
 
