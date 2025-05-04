@@ -91,8 +91,11 @@ For Researchers:<br>
 - [Download Raw Data File](data/WA_Fn-UseC_-Telco-Customer-Churn.csv)
 - [Download image](graphs_&_charts)
 - ![image Preview](graphs_&_charts/01_linechart_1.png)
-- 
-- `README.md`
+- ![image Preview](graphs_&_charts/02_Boxplot1.png)
+- ![image Preview](graphs_&_charts/03_StackedBar_DualAxis_Line1.png)
+- ![image Preview](graphs_&_charts/04_LR1.png)
+- ![image Preview](graphs_&_charts/05_LR2.png)
+- ![image Preview](graphs_&_charts/06_newplot.png)
+- ![image Preview](graphs_&_charts/07_areachart_improved1.png)
 
-![Dashboard Preview](images/dashboard_overview.png)
 ---
