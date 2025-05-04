@@ -88,9 +88,8 @@ For Researchers:<br>
 ## 📁 Files
 
 - [Download Jupyter Notebook](notebook/Olympics%20120%20Years%20Demographic%20.ipynb)
-- [Download pdf](pdf/SaaS_Customer_Churn_Analysis.pdf)
 - [Download Raw Data File](data/WA_Fn-UseC_-Telco-Customer-Churn.csv)
-- [Download Dashboard image](images/dashboard_overview.png)
+- [Download image](graphs_&_charts)
 - `README.md`
 
 ![Dashboard Preview](images/dashboard_overview.png)
