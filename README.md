@@ -85,4 +85,13 @@ For Researchers:<br>
 - Data Visualization (Treemaps, Line Charts, Stacked Bar Charts)
 ---
 
+## 📁 Files
 
+- [Download Jupyter Notebook](Jupyter%20Notebook/Olympics%20120%20Years%20Demographic%20.ipynb)
+- [Download pdf](pdf/SaaS_Customer_Churn_Analysis.pdf)
+- [Download Raw Data File](data/WA_Fn-UseC_-Telco-Customer-Churn.csv)
+- [Download Dashboard image](images/dashboard_overview.png)
+- `README.md`
+
+![Dashboard Preview](images/dashboard_overview.png)
+---
