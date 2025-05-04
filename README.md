@@ -90,6 +90,8 @@ For Researchers:<br>
 - [Download Jupyter Notebook](notebook/Olympics%20120%20Years%20Demographic%20.ipynb)
 - [Download Raw Data File](data/WA_Fn-UseC_-Telco-Customer-Churn.csv)
 - [Download image](graphs_&_charts)
+- ![image Preview](graphs_&_charts/01_linechart_1.png)
+- 
 - `README.md`
 
 ![Dashboard Preview](images/dashboard_overview.png)
